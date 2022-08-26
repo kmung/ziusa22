@@ -1,4 +1,4 @@
-<?php // processes metada and header ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
