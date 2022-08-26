@@ -15,7 +15,8 @@
     <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
-    <meta name="description" content="The official website of the Zomi Community USA, Inc. Also known as Zomi Innkuan USA or ZIUSA." />
+    <!--Metadata-->
+    <meta name="description" content="The official website of the Zomi Community USA, Inc. Also known as Zomi Innkuan USA or ZIUSA.">
     <!--Stylesheets-->
     <link rel="stylesheet" href="/css/index.css">
 </head>
