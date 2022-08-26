@@ -1,1 +1,4 @@
-<?php // silent is golden
+<?php // processes footer ?>
+
+</body>
+</html>
