@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -21,4 +20,18 @@
     <link rel="stylesheet" href="/css/index.css">
 </head>
 <body>
+    <!--Top Nav-->
+    <header>
+        <div class="sticky-nav">
+            <img src="/img/ziusa_logo.png">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Programs</a></li>
+                <li><a href="#">Committee</a></li>
+                <li><a href="#">Media</a></li>
+            </ul>
+        </div>
+
+    </header>
     
