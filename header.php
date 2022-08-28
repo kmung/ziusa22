@@ -23,15 +23,19 @@
     <!--Top Nav-->
     <header>
         <div class="sticky-nav">
-            <img class="site-logo" alt="ZIUSA logo" src="/img/ziusa-logo.png">
-            <ul class="nav-links">
-                <li><a href="#">Home</a></li>
-                <li><a href="#">About Us</a></li>
-                <li><a href="#">Programs</a></li>
-                <li><a href="#">Committees</a></li>
-                <li><a href="#">Media</a></li>
-                <li><a href="#">Contact Us</a></li>
-            </ul>
+            <div class="site-logo">
+                <a href="/index.php"><img alt="ZIUSA logo" src="/img/ziusa-logo.png"></a>
+            </div>
+            <div class="nav-links">
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Programs</a></li>
+                    <li><a href="#">Committees</a></li>
+                    <li><a href="#">Media</a></li>
+                    <li><a href="#">Contact Us</a></li>
+                </ul>
+            </div>
         </div>
     </header>
     
