@@ -28,8 +28,9 @@
                 <li><a href="#">Home</a></li>
                 <li><a href="#">About Us</a></li>
                 <li><a href="#">Programs</a></li>
-                <li><a href="#">Committee</a></li>
+                <li><a href="#">Committees</a></li>
                 <li><a href="#">Media</a></li>
+                <li><a href="#">Contact Us</a></li>
             </ul>
         </div>
 

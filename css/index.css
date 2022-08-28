@@ -16,7 +16,7 @@ body {
     justify-content: space-between;
 }
 
-.sticky-nav > img {
+.sticky-nav img {
     height: auto;
     width: 90px;
     padding: 5px;
@@ -30,26 +30,25 @@ body {
     padding-left: 4px;
 }
 
-.nav-links > li {
+.nav-links li {
     padding-left: 8px;
+    font-size: 16px;
 }
 
 /* unvisited link */
-.nav-links > a:link {
+.nav-links a:link, a:visited {
     text-decoration: none;
 }
 
 /* visited link */
-.nav-links > a:visited {
+.nav-links a:visited {
     text-decoration: none;
+    color: rgb(153, 93, 208);
 }
 
-/* mouse over link */
-.nav-links > a:hover {
+/* mouse over link, selected link */
+.nav-links a:hover, a:active {
     text-decoration: none;
-}
-
-/* selected link */
-.nav-links > a:active {
-    text-decoration: none;
+    cursor: pointer;
+    color: rgb(86, 178, 236);
 }
