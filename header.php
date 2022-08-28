@@ -23,7 +23,7 @@
     <!--Top Nav-->
     <header>
         <div class="sticky-nav">
-            <img src="/img/ziusa_logo.png">
+            <img class="site-logo" alt="ZIUSA logo" src="/img/ziusa_logo.png">
             <ul class="nav-links">
                 <li><a href="#">Home</a></li>
                 <li><a href="#">About Us</a></li>

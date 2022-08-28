@@ -14,9 +14,11 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    width: 100%;
+    background: linear-gradient(0.25turn, red, yellow, green);
 }
 
-.sticky-nav img {
+.site-logo {
     height: auto;
     width: 90px;
     padding: 5px;
@@ -43,7 +45,7 @@ body {
 /* visited link */
 .nav-links a:visited {
     text-decoration: none;
-    color: rgb(153, 93, 208);
+    color: rgb(179, 150, 207);
 }
 
 /* mouse over link, selected link */
@@ -51,4 +53,9 @@ body {
     text-decoration: none;
     cursor: pointer;
     color: rgb(86, 178, 236);
+}
+
+/* footer copyright */
+.cp-right {
+    text-align: center;
 }
