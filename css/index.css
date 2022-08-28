@@ -5,8 +5,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 /* font-family: 'Poppins', sans-serif; */
 
-body {
+html, body {
     padding: 0;
+    height: 100%;
+}
+
+header {
     font-family: 'Poppins', sans-serif;
 }
 
@@ -14,6 +18,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: 0;
+    margin: 0;
     width: 100%;
     background: linear-gradient(0.25turn, red, yellow, green);
 }
@@ -21,7 +27,10 @@ body {
 .site-logo {
     height: auto;
     width: 90px;
-    padding: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 18px;
+    padding-right: 4px;
     align-items: center;
 }
 
@@ -45,7 +54,7 @@ body {
 /* visited link */
 .nav-links a:visited {
     text-decoration: none;
-    color: rgb(179, 150, 207);
+    color: white;
 }
 
 /* mouse over link, selected link */
