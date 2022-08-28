@@ -23,13 +23,33 @@ body {
     align-items: center;
 }
 
-.sticky-nav > ul {
+.nav-links {
     display: flex;
     align-items: center;
     list-style: none;
     padding-left: 4px;
 }
 
-.sticky-nav > ul > li {
+.nav-links > li {
     padding-left: 8px;
+}
+
+/* unvisited link */
+.nav-links > a:link {
+    text-decoration: none;
+}
+
+/* visited link */
+.nav-links > a:visited {
+    text-decoration: none;
+}
+
+/* mouse over link */
+.nav-links > a:hover {
+    text-decoration: none;
+}
+
+/* selected link */
+.nav-links > a:active {
+    text-decoration: none;
 }

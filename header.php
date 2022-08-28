@@ -24,7 +24,7 @@
     <header>
         <div class="sticky-nav">
             <img src="/img/ziusa_logo.png">
-            <ul>
+            <ul class="nav-links">
                 <li><a href="#">Home</a></li>
                 <li><a href="#">About Us</a></li>
                 <li><a href="#">Programs</a></li>
