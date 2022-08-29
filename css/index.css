@@ -34,10 +34,13 @@ header {
     width: 5rem;
     padding-left: 8px;
     padding-right: 8px;
+    padding-top: 8px;
 }
 
 .nav-links {
-    width: 75%;
+    width: 80%;
+    display: flex;
+    justify-content: flex-end;
 }
 
 .nav-links li {
