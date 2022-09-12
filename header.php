@@ -31,8 +31,10 @@
                     <li><a href="#"><i class="bi bi-house"></i>&nbsp;Home</a></li>
                     <li><a href="#">About Us</a></li>
                     <li><a href="#">Programs</a></li>
+                    <li><a href="#">Departments</a></li>
                     <li><a href="#">Committees</a></li>
-                    <li><a href="#">Media</a></li>
+                    <li><a href="#">Media and Publications</a></li>
+                    <li><a href="#">Innpi</a></li>
                     <li><a href="#">Contact Us</a></li>
                 </ul>
             </div>
