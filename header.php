@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!--Site Title-->
-    <title>Zomi Innkuan USA | Zomi Community of USA</title>
+    <title>Zomi Innkuan USA - Zomi Community of USA</title>
     <!--Site Favicon-->
     <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
@@ -28,13 +28,14 @@
             </div>
             <div class="nav-links">
                 <ul>
-                    <li><a href="#"><i class="bi bi-house"></i>&nbsp;Home</a></li>
+                    <li><a href="/index.php"><i class="bi bi-house"></i>&nbsp;Home</a></li>
                     <li><a href="#">About Us</a></li>
                     <li><a href="#">Programs</a></li>
                     <li><a href="#">Departments</a></li>
                     <li><a href="#">Committees</a></li>
                     <li><a href="#">Media and Publications</a></li>
-                    <li><a href="#">Innpi</a></li>
+                    <li><a href="#">Innpi
+                    </a></li>
                     <li><a href="#">Contact Us</a></li>
                 </ul>
             </div>

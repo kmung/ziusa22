@@ -9,6 +9,7 @@ html, body {
     padding: 0;
     height: 100%;
     overflow: scroll;
+    background-color: white;
 }
 
 header {
@@ -21,7 +22,6 @@ header {
     padding: 0;
     margin: 0;
     width: 100%;
-    background: linear-gradient(0.25turn, red, yellow, green);
 }
 
 .site-logo {
@@ -43,11 +43,18 @@ header {
     justify-content: flex-end;
 }
 
+/* fix later
+.nav-links i {
+    justify-content: center;
+}
+*/
+
 .nav-links li {
     display: inline;
     list-style: none;
     padding-left: 8px;
     font-size: 16px;
+    color: black;
 }
 
 /* unvisited link */
@@ -58,7 +65,7 @@ header {
 /* visited link */
 .nav-links a:visited {
     text-decoration: none;
-    color: white;
+    color: rgb(145, 171, 182);
 }
 
 /* mouse over link, selected link */
