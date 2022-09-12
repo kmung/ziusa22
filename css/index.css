@@ -69,6 +69,17 @@ header {
     color: rgb(86, 178, 236);
 }
 
+.welcome-banner {
+    position: relative;
+    min-height: 85vh;
+    background: url(/img/ziusa-flag.png)no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 /* footer copyright */
 .cp-right {
     text-align: center;
