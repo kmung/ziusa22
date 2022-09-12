@@ -28,14 +28,14 @@
             </div>
             <div class="nav-links">
                 <ul>
-                    <li><button type="button" class="link-btn"><a href="/index.php"><i class="bi bi-house"></i>&nbsp;Home</a></button></li>
-                    <li><button type="button" class="link-btn"><a href="#">About Us&nbsp;<i class="bi bi-caret-down"></i></a></button></li>
-                    <li><button type="button" class="link-btn"><a href="#">Programs&nbsp;<i class="bi bi-caret-down"></i></a></button></li>
-                    <li><button type="button" class="link-btn"><a href="#">Departments&nbsp;<i class="bi bi-caret-down"></i></a></button></li>
-                    <li><button type="button" class="link-btn"><a href="#">Committees&nbsp;<i class="bi bi-caret-down"></i></a></button></li>
-                    <li><button type="button" class="link-btn"><a href="#">Media and Publications&nbsp;<i class="bi bi-caret-down"></i></a></button></li>
-                    <li><button type="button" class="link-btn"><a href="#">Innpi&nbsp;<i class="bi bi-caret-down"></i></a></button></li>
-                    <li><button type="button" class="link-btn"><a href="#">Contact Us</a></button></li>
+                    <li><button type="button" class="btn-links"><a href="/index.php"><i class="bi bi-house"></i>&nbsp;Home</a></button></li>
+                    <li><button type="button" class="btn-links"><a href="#">About Us&nbsp;<i class="bi bi-caret-down"></i></a></button></li>
+                    <li><button type="button" class="btn-links"><a href="#">Programs&nbsp;<i class="bi bi-caret-down"></i></a></button></li>
+                    <li><button type="button" class="btn-links"><a href="#">Departments&nbsp;<i class="bi bi-caret-down"></i></a></button></li>
+                    <li><button type="button" class="btn-links"><a href="#">Committees&nbsp;<i class="bi bi-caret-down"></i></a></button></li>
+                    <li><button type="button" class="btn-links"><a href="#">Media and Publications&nbsp;<i class="bi bi-caret-down"></i></a></button></li>
+                    <li><button type="button" class="btn-links"><a href="#">Innpi&nbsp;<i class="bi bi-caret-down"></i></a></button></li>
+                    <li><button type="button" class="btn-links"><a href="#">Contact Us</a></button></li>
                 </ul>
             </div>
         </div>
